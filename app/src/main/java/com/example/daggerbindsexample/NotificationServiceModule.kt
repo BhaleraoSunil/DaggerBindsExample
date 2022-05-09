@@ -1,4 +1,4 @@
-package com.daggerprovidesmodulebindsexample
+package com.example.daggerbindsexample
 
 
 import dagger.Module

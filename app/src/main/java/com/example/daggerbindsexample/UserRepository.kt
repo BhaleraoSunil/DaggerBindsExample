@@ -1,8 +1,8 @@
-package com.daggerprovidesmodulebindsexample
+package com.example.daggerbindsexample
 
 import android.annotation.SuppressLint
 import android.util.Log
-import com.daggerprovidesmodulebindsexample.Utils.Companion.TAG
+import com.example.daggerbindsexample.Utils.Companion.TAG
 import javax.inject.Inject
 
 interface UserRepository{

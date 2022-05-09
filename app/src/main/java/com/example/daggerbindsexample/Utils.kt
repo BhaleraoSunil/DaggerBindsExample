@@ -1,8 +1,8 @@
-package com.daggerprovidesmodulebindsexample
+package com.example.daggerbindsexample
 
 class Utils {
     companion object {
-        const val TAG = "DaggerProvidesModuleBindsExample"
+        const val TAG = "DaggerBindsExample"
     }
 
 }
